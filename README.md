@@ -1,2 +1,0 @@
-# IslandAwakening
-Game Jam Game
